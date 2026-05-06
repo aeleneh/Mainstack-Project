@@ -1,0 +1,1502 @@
+[
+  {
+    "amount": 57.5,
+    "metadata": {
+      "name": "Ava Johnson",
+      "type": "deposit",
+      "email": "ava.johnson001@example.com",
+      "quantity": 1,
+      "country": "United States",
+      "product_name": "Pro Dashboard"
+    },
+    "payment_reference": "txn_0001",
+    "status": "pending",
+    "type": "deposit",
+    "date": "2026-04-20T09:00:00.000Z"
+  },
+  {
+    "amount": 177.35,
+    "metadata": {
+      "name": "Noah Patel",
+      "type": "withdrawal",
+      "email": "noah.patel002@example.com",
+      "quantity": 2,
+      "country": "South Africa",
+      "product_name": "Creator Course"
+    },
+    "payment_reference": "txn_0002",
+    "status": "pending",
+    "type": "withdrawal",
+    "date": "2026-04-19T14:00:00.000Z"
+  },
+  {
+    "amount": 117.2,
+    "metadata": {
+      "name": "Mia Miller",
+      "type": "store",
+      "email": "mia.miller003@example.com",
+      "quantity": 3,
+      "country": "Germany",
+      "product_name": "Growth Toolkit"
+    },
+    "payment_reference": "txn_0003",
+    "status": "failed",
+    "type": "store",
+    "date": "2026-04-18T19:00:00.000Z"
+  },
+  {
+    "amount": 147.05,
+    "metadata": {
+      "name": "Ethan Silva",
+      "type": "tipped",
+      "email": "ethan.silva004@example.com",
+      "quantity": 4,
+      "country": "United Kingdom",
+      "product_name": "SaaS Starter"
+    },
+    "payment_reference": "txn_0004",
+    "status": "successful",
+    "type": "tipped",
+    "date": "2026-04-18T00:00:00.000Z"
+  },
+  {
+    "amount": 266.9,
+    "metadata": {
+      "name": "Zara Kim",
+      "type": "withdrawals",
+      "email": "zara.kim005@example.com",
+      "quantity": 5,
+      "country": "Brazil",
+      "product_name": "Revenue Playbook"
+    },
+    "payment_reference": "txn_0005",
+    "status": "failed",
+    "type": "withdrawals",
+    "date": "2026-04-17T05:00:00.000Z"
+  },
+  {
+    "amount": 324.25,
+    "metadata": {
+      "name": "Liam Garcia",
+      "type": "chargebacks",
+      "email": "liam.garcia006@example.com",
+      "quantity": 1,
+      "country": "Kenya",
+      "product_name": "Pro Dashboard"
+    },
+    "payment_reference": "txn_0006",
+    "status": "failed",
+    "type": "chargebacks",
+    "date": "2026-04-16T10:00:00.000Z"
+  },
+  {
+    "amount": 174.1,
+    "metadata": {
+      "name": "Nora Chen",
+      "type": "cashback",
+      "email": "nora.chen007@example.com",
+      "quantity": 2,
+      "country": "Canada",
+      "product_name": "Creator Course"
+    },
+    "payment_reference": "txn_0007",
+    "status": "successful",
+    "type": "cashback",
+    "date": "2026-04-15T15:00:00.000Z"
+  },
+  {
+    "amount": 203.95,
+    "metadata": {
+      "name": "Elijah Okafor",
+      "type": "refer_earn",
+      "email": "elijah.okafor008@example.com",
+      "quantity": 3,
+      "country": "Netherlands",
+      "product_name": "Growth Toolkit"
+    },
+    "payment_reference": "txn_0008",
+    "status": "pending",
+    "type": "refer_earn",
+    "date": "2026-04-14T20:00:00.000Z"
+  },
+  {
+    "amount": 233.8,
+    "metadata": {
+      "name": "Ivy Brown",
+      "type": "deposit",
+      "email": "ivy.brown009@example.com",
+      "quantity": 4,
+      "country": "India",
+      "product_name": "SaaS Starter"
+    },
+    "payment_reference": "txn_0009",
+    "status": "successful",
+    "type": "deposit",
+    "date": "2026-04-14T01:00:00.000Z"
+  },
+  {
+    "amount": 353.65,
+    "metadata": {
+      "name": "Lucas Adeyemi",
+      "type": "withdrawal",
+      "email": "lucas.adeyemi010@example.com",
+      "quantity": 5,
+      "country": "Nigeria",
+      "product_name": "Revenue Playbook"
+    },
+    "payment_reference": "txn_0010",
+    "status": "successful",
+    "type": "withdrawal",
+    "date": "2026-04-13T06:00:00.000Z"
+  },
+  {
+    "amount": 231,
+    "metadata": {
+      "name": "Ava Johnson",
+      "type": "store",
+      "email": "ava.johnson011@example.com",
+      "quantity": 1,
+      "country": "United States",
+      "product_name": "Pro Dashboard"
+    },
+    "payment_reference": "txn_0011",
+    "status": "pending",
+    "type": "store",
+    "date": "2026-04-12T11:00:00.000Z"
+  },
+  {
+    "amount": 260.85,
+    "metadata": {
+      "name": "Noah Patel",
+      "type": "tipped",
+      "email": "noah.patel012@example.com",
+      "quantity": 2,
+      "country": "South Africa",
+      "product_name": "Creator Course"
+    },
+    "payment_reference": "txn_0012",
+    "status": "failed",
+    "type": "tipped",
+    "date": "2026-04-11T16:00:00.000Z"
+  },
+  {
+    "amount": 380.7,
+    "metadata": {
+      "name": "Mia Miller",
+      "type": "withdrawals",
+      "email": "mia.miller013@example.com",
+      "quantity": 3,
+      "country": "Germany",
+      "product_name": "Growth Toolkit"
+    },
+    "payment_reference": "txn_0013",
+    "status": "pending",
+    "type": "withdrawals",
+    "date": "2026-04-10T21:00:00.000Z"
+  },
+  {
+    "amount": 500.55,
+    "metadata": {
+      "name": "Ethan Silva",
+      "type": "chargebacks",
+      "email": "ethan.silva014@example.com",
+      "quantity": 4,
+      "country": "United Kingdom",
+      "product_name": "SaaS Starter"
+    },
+    "payment_reference": "txn_0014",
+    "status": "pending",
+    "type": "chargebacks",
+    "date": "2026-04-10T02:00:00.000Z"
+  },
+  {
+    "amount": 350.4,
+    "metadata": {
+      "name": "Zara Kim",
+      "type": "cashback",
+      "email": "zara.kim015@example.com",
+      "quantity": 5,
+      "country": "Brazil",
+      "product_name": "Revenue Playbook"
+    },
+    "payment_reference": "txn_0015",
+    "status": "failed",
+    "type": "cashback",
+    "date": "2026-04-09T07:00:00.000Z"
+  },
+  {
+    "amount": 317.75,
+    "metadata": {
+      "name": "Liam Garcia",
+      "type": "refer_earn",
+      "email": "liam.garcia016@example.com",
+      "quantity": 1,
+      "country": "Kenya",
+      "product_name": "Pro Dashboard"
+    },
+    "payment_reference": "txn_0016",
+    "status": "successful",
+    "type": "refer_earn",
+    "date": "2026-04-08T12:00:00.000Z"
+  },
+  {
+    "amount": 347.6,
+    "metadata": {
+      "name": "Nora Chen",
+      "type": "deposit",
+      "email": "nora.chen017@example.com",
+      "quantity": 2,
+      "country": "Canada",
+      "product_name": "Creator Course"
+    },
+    "payment_reference": "txn_0017",
+    "status": "failed",
+    "type": "deposit",
+    "date": "2026-04-07T17:00:00.000Z"
+  },
+  {
+    "amount": 467.45,
+    "metadata": {
+      "name": "Elijah Okafor",
+      "type": "withdrawal",
+      "email": "elijah.okafor018@example.com",
+      "quantity": 3,
+      "country": "Netherlands",
+      "product_name": "Growth Toolkit"
+    },
+    "payment_reference": "txn_0018",
+    "status": "failed",
+    "type": "withdrawal",
+    "date": "2026-04-06T22:00:00.000Z"
+  },
+  {
+    "amount": 407.3,
+    "metadata": {
+      "name": "Ivy Brown",
+      "type": "store",
+      "email": "ivy.brown019@example.com",
+      "quantity": 4,
+      "country": "India",
+      "product_name": "SaaS Starter"
+    },
+    "payment_reference": "txn_0019",
+    "status": "successful",
+    "type": "store",
+    "date": "2026-04-06T03:00:00.000Z"
+  },
+  {
+    "amount": 437.15,
+    "metadata": {
+      "name": "Lucas Adeyemi",
+      "type": "tipped",
+      "email": "lucas.adeyemi020@example.com",
+      "quantity": 5,
+      "country": "Nigeria",
+      "product_name": "Revenue Playbook"
+    },
+    "payment_reference": "txn_0020",
+    "status": "pending",
+    "type": "tipped",
+    "date": "2026-04-05T08:00:00.000Z"
+  },
+  {
+    "amount": 494.5,
+    "metadata": {
+      "name": "Ava Johnson",
+      "type": "withdrawals",
+      "email": "ava.johnson021@example.com",
+      "quantity": 1,
+      "country": "United States",
+      "product_name": "Pro Dashboard"
+    },
+    "payment_reference": "txn_0021",
+    "status": "successful",
+    "type": "withdrawals",
+    "date": "2026-04-04T13:00:00.000Z"
+  },
+  {
+    "amount": 614.35,
+    "metadata": {
+      "name": "Noah Patel",
+      "type": "chargebacks",
+      "email": "noah.patel022@example.com",
+      "quantity": 2,
+      "country": "South Africa",
+      "product_name": "Creator Course"
+    },
+    "payment_reference": "txn_0022",
+    "status": "successful",
+    "type": "chargebacks",
+    "date": "2026-04-03T18:00:00.000Z"
+  },
+  {
+    "amount": 464.2,
+    "metadata": {
+      "name": "Mia Miller",
+      "type": "cashback",
+      "email": "mia.miller023@example.com",
+      "quantity": 3,
+      "country": "Germany",
+      "product_name": "Growth Toolkit"
+    },
+    "payment_reference": "txn_0023",
+    "status": "pending",
+    "type": "cashback",
+    "date": "2026-04-02T23:00:00.000Z"
+  },
+  {
+    "amount": 494.05,
+    "metadata": {
+      "name": "Ethan Silva",
+      "type": "refer_earn",
+      "email": "ethan.silva024@example.com",
+      "quantity": 4,
+      "country": "United Kingdom",
+      "product_name": "SaaS Starter"
+    },
+    "payment_reference": "txn_0024",
+    "status": "failed",
+    "type": "refer_earn",
+    "date": "2026-04-02T04:00:00.000Z"
+  },
+  {
+    "amount": 523.9,
+    "metadata": {
+      "name": "Zara Kim",
+      "type": "deposit",
+      "email": "zara.kim025@example.com",
+      "quantity": 5,
+      "country": "Brazil",
+      "product_name": "Revenue Playbook"
+    },
+    "payment_reference": "txn_0025",
+    "status": "pending",
+    "type": "deposit",
+    "date": "2026-04-01T09:00:00.000Z"
+  },
+  {
+    "amount": 581.25,
+    "metadata": {
+      "name": "Liam Garcia",
+      "type": "withdrawal",
+      "email": "liam.garcia026@example.com",
+      "quantity": 1,
+      "country": "Kenya",
+      "product_name": "Pro Dashboard"
+    },
+    "payment_reference": "txn_0026",
+    "status": "pending",
+    "type": "withdrawal",
+    "date": "2026-03-31T14:00:00.000Z"
+  },
+  {
+    "amount": 521.1,
+    "metadata": {
+      "name": "Nora Chen",
+      "type": "store",
+      "email": "nora.chen027@example.com",
+      "quantity": 2,
+      "country": "Canada",
+      "product_name": "Creator Course"
+    },
+    "payment_reference": "txn_0027",
+    "status": "failed",
+    "type": "store",
+    "date": "2026-03-30T19:00:00.000Z"
+  },
+  {
+    "amount": 550.95,
+    "metadata": {
+      "name": "Elijah Okafor",
+      "type": "tipped",
+      "email": "elijah.okafor028@example.com",
+      "quantity": 3,
+      "country": "Netherlands",
+      "product_name": "Growth Toolkit"
+    },
+    "payment_reference": "txn_0028",
+    "status": "successful",
+    "type": "tipped",
+    "date": "2026-03-30T00:00:00.000Z"
+  },
+  {
+    "amount": 670.8,
+    "metadata": {
+      "name": "Ivy Brown",
+      "type": "withdrawals",
+      "email": "ivy.brown029@example.com",
+      "quantity": 4,
+      "country": "India",
+      "product_name": "SaaS Starter"
+    },
+    "payment_reference": "txn_0029",
+    "status": "failed",
+    "type": "withdrawals",
+    "date": "2026-03-29T05:00:00.000Z"
+  },
+  {
+    "amount": 790.65,
+    "metadata": {
+      "name": "Lucas Adeyemi",
+      "type": "chargebacks",
+      "email": "lucas.adeyemi030@example.com",
+      "quantity": 5,
+      "country": "Nigeria",
+      "product_name": "Revenue Playbook"
+    },
+    "payment_reference": "txn_0030",
+    "status": "failed",
+    "type": "chargebacks",
+    "date": "2026-03-28T10:00:00.000Z"
+  },
+  {
+    "amount": 578,
+    "metadata": {
+      "name": "Ava Johnson",
+      "type": "cashback",
+      "email": "ava.johnson031@example.com",
+      "quantity": 1,
+      "country": "United States",
+      "product_name": "Pro Dashboard"
+    },
+    "payment_reference": "txn_0031",
+    "status": "successful",
+    "type": "cashback",
+    "date": "2026-03-27T15:00:00.000Z"
+  },
+  {
+    "amount": 607.85,
+    "metadata": {
+      "name": "Noah Patel",
+      "type": "refer_earn",
+      "email": "noah.patel032@example.com",
+      "quantity": 2,
+      "country": "South Africa",
+      "product_name": "Creator Course"
+    },
+    "payment_reference": "txn_0032",
+    "status": "pending",
+    "type": "refer_earn",
+    "date": "2026-03-26T20:00:00.000Z"
+  },
+  {
+    "amount": 637.7,
+    "metadata": {
+      "name": "Mia Miller",
+      "type": "deposit",
+      "email": "mia.miller033@example.com",
+      "quantity": 3,
+      "country": "Germany",
+      "product_name": "Growth Toolkit"
+    },
+    "payment_reference": "txn_0033",
+    "status": "successful",
+    "type": "deposit",
+    "date": "2026-03-26T01:00:00.000Z"
+  },
+  {
+    "amount": 757.55,
+    "metadata": {
+      "name": "Ethan Silva",
+      "type": "withdrawal",
+      "email": "ethan.silva034@example.com",
+      "quantity": 4,
+      "country": "United Kingdom",
+      "product_name": "SaaS Starter"
+    },
+    "payment_reference": "txn_0034",
+    "status": "successful",
+    "type": "withdrawal",
+    "date": "2026-03-25T06:00:00.000Z"
+  },
+  {
+    "amount": 697.4,
+    "metadata": {
+      "name": "Zara Kim",
+      "type": "store",
+      "email": "zara.kim035@example.com",
+      "quantity": 5,
+      "country": "Brazil",
+      "product_name": "Revenue Playbook"
+    },
+    "payment_reference": "txn_0035",
+    "status": "pending",
+    "type": "store",
+    "date": "2026-03-24T11:00:00.000Z"
+  },
+  {
+    "amount": 664.75,
+    "metadata": {
+      "name": "Liam Garcia",
+      "type": "tipped",
+      "email": "liam.garcia036@example.com",
+      "quantity": 1,
+      "country": "Kenya",
+      "product_name": "Pro Dashboard"
+    },
+    "payment_reference": "txn_0036",
+    "status": "failed",
+    "type": "tipped",
+    "date": "2026-03-23T16:00:00.000Z"
+  },
+  {
+    "amount": 784.6,
+    "metadata": {
+      "name": "Nora Chen",
+      "type": "withdrawals",
+      "email": "nora.chen037@example.com",
+      "quantity": 2,
+      "country": "Canada",
+      "product_name": "Creator Course"
+    },
+    "payment_reference": "txn_0037",
+    "status": "pending",
+    "type": "withdrawals",
+    "date": "2026-03-22T21:00:00.000Z"
+  },
+  {
+    "amount": 904.45,
+    "metadata": {
+      "name": "Elijah Okafor",
+      "type": "chargebacks",
+      "email": "elijah.okafor038@example.com",
+      "quantity": 3,
+      "country": "Netherlands",
+      "product_name": "Growth Toolkit"
+    },
+    "payment_reference": "txn_0038",
+    "status": "pending",
+    "type": "chargebacks",
+    "date": "2026-03-22T02:00:00.000Z"
+  },
+  {
+    "amount": 754.3,
+    "metadata": {
+      "name": "Ivy Brown",
+      "type": "cashback",
+      "email": "ivy.brown039@example.com",
+      "quantity": 4,
+      "country": "India",
+      "product_name": "SaaS Starter"
+    },
+    "payment_reference": "txn_0039",
+    "status": "failed",
+    "type": "cashback",
+    "date": "2026-03-21T07:00:00.000Z"
+  },
+  {
+    "amount": 784.15,
+    "metadata": {
+      "name": "Lucas Adeyemi",
+      "type": "refer_earn",
+      "email": "lucas.adeyemi040@example.com",
+      "quantity": 5,
+      "country": "Nigeria",
+      "product_name": "Revenue Playbook"
+    },
+    "payment_reference": "txn_0040",
+    "status": "successful",
+    "type": "refer_earn",
+    "date": "2026-03-20T12:00:00.000Z"
+  },
+  {
+    "amount": 751.5,
+    "metadata": {
+      "name": "Ava Johnson",
+      "type": "deposit",
+      "email": "ava.johnson041@example.com",
+      "quantity": 1,
+      "country": "United States",
+      "product_name": "Pro Dashboard"
+    },
+    "payment_reference": "txn_0041",
+    "status": "failed",
+    "type": "deposit",
+    "date": "2026-03-19T17:00:00.000Z"
+  },
+  {
+    "amount": 871.35,
+    "metadata": {
+      "name": "Noah Patel",
+      "type": "withdrawal",
+      "email": "noah.patel042@example.com",
+      "quantity": 2,
+      "country": "South Africa",
+      "product_name": "Creator Course"
+    },
+    "payment_reference": "txn_0042",
+    "status": "failed",
+    "type": "withdrawal",
+    "date": "2026-03-18T22:00:00.000Z"
+  },
+  {
+    "amount": 811.2,
+    "metadata": {
+      "name": "Mia Miller",
+      "type": "store",
+      "email": "mia.miller043@example.com",
+      "quantity": 3,
+      "country": "Germany",
+      "product_name": "Growth Toolkit"
+    },
+    "payment_reference": "txn_0043",
+    "status": "successful",
+    "type": "store",
+    "date": "2026-03-18T03:00:00.000Z"
+  },
+  {
+    "amount": 841.05,
+    "metadata": {
+      "name": "Ethan Silva",
+      "type": "tipped",
+      "email": "ethan.silva044@example.com",
+      "quantity": 4,
+      "country": "United Kingdom",
+      "product_name": "SaaS Starter"
+    },
+    "payment_reference": "txn_0044",
+    "status": "pending",
+    "type": "tipped",
+    "date": "2026-03-17T08:00:00.000Z"
+  },
+  {
+    "amount": 960.9,
+    "metadata": {
+      "name": "Zara Kim",
+      "type": "withdrawals",
+      "email": "zara.kim045@example.com",
+      "quantity": 5,
+      "country": "Brazil",
+      "product_name": "Revenue Playbook"
+    },
+    "payment_reference": "txn_0045",
+    "status": "successful",
+    "type": "withdrawals",
+    "date": "2026-03-16T13:00:00.000Z"
+  },
+  {
+    "amount": 1018.25,
+    "metadata": {
+      "name": "Liam Garcia",
+      "type": "chargebacks",
+      "email": "liam.garcia046@example.com",
+      "quantity": 1,
+      "country": "Kenya",
+      "product_name": "Pro Dashboard"
+    },
+    "payment_reference": "txn_0046",
+    "status": "successful",
+    "type": "chargebacks",
+    "date": "2026-03-15T18:00:00.000Z"
+  },
+  {
+    "amount": 868.1,
+    "metadata": {
+      "name": "Nora Chen",
+      "type": "cashback",
+      "email": "nora.chen047@example.com",
+      "quantity": 2,
+      "country": "Canada",
+      "product_name": "Creator Course"
+    },
+    "payment_reference": "txn_0047",
+    "status": "pending",
+    "type": "cashback",
+    "date": "2026-03-14T23:00:00.000Z"
+  },
+  {
+    "amount": 897.95,
+    "metadata": {
+      "name": "Elijah Okafor",
+      "type": "refer_earn",
+      "email": "elijah.okafor048@example.com",
+      "quantity": 3,
+      "country": "Netherlands",
+      "product_name": "Growth Toolkit"
+    },
+    "payment_reference": "txn_0048",
+    "status": "failed",
+    "type": "refer_earn",
+    "date": "2026-03-14T04:00:00.000Z"
+  },
+  {
+    "amount": 927.8,
+    "metadata": {
+      "name": "Ivy Brown",
+      "type": "deposit",
+      "email": "ivy.brown049@example.com",
+      "quantity": 4,
+      "country": "India",
+      "product_name": "SaaS Starter"
+    },
+    "payment_reference": "txn_0049",
+    "status": "pending",
+    "type": "deposit",
+    "date": "2026-03-13T09:00:00.000Z"
+  },
+  {
+    "amount": 1047.65,
+    "metadata": {
+      "name": "Lucas Adeyemi",
+      "type": "withdrawal",
+      "email": "lucas.adeyemi050@example.com",
+      "quantity": 5,
+      "country": "Nigeria",
+      "product_name": "Revenue Playbook"
+    },
+    "payment_reference": "txn_0050",
+    "status": "pending",
+    "type": "withdrawal",
+    "date": "2026-03-12T14:00:00.000Z"
+  },
+  {
+    "amount": 925,
+    "metadata": {
+      "name": "Ava Johnson",
+      "type": "store",
+      "email": "ava.johnson051@example.com",
+      "quantity": 1,
+      "country": "United States",
+      "product_name": "Pro Dashboard"
+    },
+    "payment_reference": "txn_0051",
+    "status": "failed",
+    "type": "store",
+    "date": "2026-03-11T19:00:00.000Z"
+  },
+  {
+    "amount": 954.85,
+    "metadata": {
+      "name": "Noah Patel",
+      "type": "tipped",
+      "email": "noah.patel052@example.com",
+      "quantity": 2,
+      "country": "South Africa",
+      "product_name": "Creator Course"
+    },
+    "payment_reference": "txn_0052",
+    "status": "successful",
+    "type": "tipped",
+    "date": "2026-03-11T00:00:00.000Z"
+  },
+  {
+    "amount": 1074.7,
+    "metadata": {
+      "name": "Mia Miller",
+      "type": "withdrawals",
+      "email": "mia.miller053@example.com",
+      "quantity": 3,
+      "country": "Germany",
+      "product_name": "Growth Toolkit"
+    },
+    "payment_reference": "txn_0053",
+    "status": "failed",
+    "type": "withdrawals",
+    "date": "2026-03-10T05:00:00.000Z"
+  },
+  {
+    "amount": 1194.55,
+    "metadata": {
+      "name": "Ethan Silva",
+      "type": "chargebacks",
+      "email": "ethan.silva054@example.com",
+      "quantity": 4,
+      "country": "United Kingdom",
+      "product_name": "SaaS Starter"
+    },
+    "payment_reference": "txn_0054",
+    "status": "failed",
+    "type": "chargebacks",
+    "date": "2026-03-09T10:00:00.000Z"
+  },
+  {
+    "amount": 1044.4,
+    "metadata": {
+      "name": "Zara Kim",
+      "type": "cashback",
+      "email": "zara.kim055@example.com",
+      "quantity": 5,
+      "country": "Brazil",
+      "product_name": "Revenue Playbook"
+    },
+    "payment_reference": "txn_0055",
+    "status": "successful",
+    "type": "cashback",
+    "date": "2026-03-08T15:00:00.000Z"
+  },
+  {
+    "amount": 1011.75,
+    "metadata": {
+      "name": "Liam Garcia",
+      "type": "refer_earn",
+      "email": "liam.garcia056@example.com",
+      "quantity": 1,
+      "country": "Kenya",
+      "product_name": "Pro Dashboard"
+    },
+    "payment_reference": "txn_0056",
+    "status": "pending",
+    "type": "refer_earn",
+    "date": "2026-03-07T20:00:00.000Z"
+  },
+  {
+    "amount": 1041.6,
+    "metadata": {
+      "name": "Nora Chen",
+      "type": "deposit",
+      "email": "nora.chen057@example.com",
+      "quantity": 2,
+      "country": "Canada",
+      "product_name": "Creator Course"
+    },
+    "payment_reference": "txn_0057",
+    "status": "successful",
+    "type": "deposit",
+    "date": "2026-03-07T01:00:00.000Z"
+  },
+  {
+    "amount": 1161.45,
+    "metadata": {
+      "name": "Elijah Okafor",
+      "type": "withdrawal",
+      "email": "elijah.okafor058@example.com",
+      "quantity": 3,
+      "country": "Netherlands",
+      "product_name": "Growth Toolkit"
+    },
+    "payment_reference": "txn_0058",
+    "status": "successful",
+    "type": "withdrawal",
+    "date": "2026-03-06T06:00:00.000Z"
+  },
+  {
+    "amount": 1101.3,
+    "metadata": {
+      "name": "Ivy Brown",
+      "type": "store",
+      "email": "ivy.brown059@example.com",
+      "quantity": 4,
+      "country": "India",
+      "product_name": "SaaS Starter"
+    },
+    "payment_reference": "txn_0059",
+    "status": "pending",
+    "type": "store",
+    "date": "2026-03-05T11:00:00.000Z"
+  },
+  {
+    "amount": 1131.15,
+    "metadata": {
+      "name": "Lucas Adeyemi",
+      "type": "tipped",
+      "email": "lucas.adeyemi060@example.com",
+      "quantity": 5,
+      "country": "Nigeria",
+      "product_name": "Revenue Playbook"
+    },
+    "payment_reference": "txn_0060",
+    "status": "failed",
+    "type": "tipped",
+    "date": "2026-03-04T16:00:00.000Z"
+  },
+  {
+    "amount": 1188.5,
+    "metadata": {
+      "name": "Ava Johnson",
+      "type": "withdrawals",
+      "email": "ava.johnson061@example.com",
+      "quantity": 1,
+      "country": "United States",
+      "product_name": "Pro Dashboard"
+    },
+    "payment_reference": "txn_0061",
+    "status": "pending",
+    "type": "withdrawals",
+    "date": "2026-03-03T21:00:00.000Z"
+  },
+  {
+    "amount": 1308.35,
+    "metadata": {
+      "name": "Noah Patel",
+      "type": "chargebacks",
+      "email": "noah.patel062@example.com",
+      "quantity": 2,
+      "country": "South Africa",
+      "product_name": "Creator Course"
+    },
+    "payment_reference": "txn_0062",
+    "status": "pending",
+    "type": "chargebacks",
+    "date": "2026-03-03T02:00:00.000Z"
+  },
+  {
+    "amount": 1158.2,
+    "metadata": {
+      "name": "Mia Miller",
+      "type": "cashback",
+      "email": "mia.miller063@example.com",
+      "quantity": 3,
+      "country": "Germany",
+      "product_name": "Growth Toolkit"
+    },
+    "payment_reference": "txn_0063",
+    "status": "failed",
+    "type": "cashback",
+    "date": "2026-03-02T07:00:00.000Z"
+  },
+  {
+    "amount": 1188.05,
+    "metadata": {
+      "name": "Ethan Silva",
+      "type": "refer_earn",
+      "email": "ethan.silva064@example.com",
+      "quantity": 4,
+      "country": "United Kingdom",
+      "product_name": "SaaS Starter"
+    },
+    "payment_reference": "txn_0064",
+    "status": "successful",
+    "type": "refer_earn",
+    "date": "2026-03-01T12:00:00.000Z"
+  },
+  {
+    "amount": 1217.9,
+    "metadata": {
+      "name": "Zara Kim",
+      "type": "deposit",
+      "email": "zara.kim065@example.com",
+      "quantity": 5,
+      "country": "Brazil",
+      "product_name": "Revenue Playbook"
+    },
+    "payment_reference": "txn_0065",
+    "status": "failed",
+    "type": "deposit",
+    "date": "2026-02-28T17:00:00.000Z"
+  },
+  {
+    "amount": 1275.25,
+    "metadata": {
+      "name": "Liam Garcia",
+      "type": "withdrawal",
+      "email": "liam.garcia066@example.com",
+      "quantity": 1,
+      "country": "Kenya",
+      "product_name": "Pro Dashboard"
+    },
+    "payment_reference": "txn_0066",
+    "status": "failed",
+    "type": "withdrawal",
+    "date": "2026-02-27T22:00:00.000Z"
+  },
+  {
+    "amount": 1215.1,
+    "metadata": {
+      "name": "Nora Chen",
+      "type": "store",
+      "email": "nora.chen067@example.com",
+      "quantity": 2,
+      "country": "Canada",
+      "product_name": "Creator Course"
+    },
+    "payment_reference": "txn_0067",
+    "status": "successful",
+    "type": "store",
+    "date": "2026-02-27T03:00:00.000Z"
+  },
+  {
+    "amount": 1244.95,
+    "metadata": {
+      "name": "Elijah Okafor",
+      "type": "tipped",
+      "email": "elijah.okafor068@example.com",
+      "quantity": 3,
+      "country": "Netherlands",
+      "product_name": "Growth Toolkit"
+    },
+    "payment_reference": "txn_0068",
+    "status": "pending",
+    "type": "tipped",
+    "date": "2026-02-26T08:00:00.000Z"
+  },
+  {
+    "amount": 1364.8,
+    "metadata": {
+      "name": "Ivy Brown",
+      "type": "withdrawals",
+      "email": "ivy.brown069@example.com",
+      "quantity": 4,
+      "country": "India",
+      "product_name": "SaaS Starter"
+    },
+    "payment_reference": "txn_0069",
+    "status": "successful",
+    "type": "withdrawals",
+    "date": "2026-02-25T13:00:00.000Z"
+  },
+  {
+    "amount": 1484.65,
+    "metadata": {
+      "name": "Lucas Adeyemi",
+      "type": "chargebacks",
+      "email": "lucas.adeyemi070@example.com",
+      "quantity": 5,
+      "country": "Nigeria",
+      "product_name": "Revenue Playbook"
+    },
+    "payment_reference": "txn_0070",
+    "status": "successful",
+    "type": "chargebacks",
+    "date": "2026-02-24T18:00:00.000Z"
+  },
+  {
+    "amount": 1272,
+    "metadata": {
+      "name": "Ava Johnson",
+      "type": "cashback",
+      "email": "ava.johnson071@example.com",
+      "quantity": 1,
+      "country": "United States",
+      "product_name": "Pro Dashboard"
+    },
+    "payment_reference": "txn_0071",
+    "status": "pending",
+    "type": "cashback",
+    "date": "2026-02-23T23:00:00.000Z"
+  },
+  {
+    "amount": 1301.85,
+    "metadata": {
+      "name": "Noah Patel",
+      "type": "refer_earn",
+      "email": "noah.patel072@example.com",
+      "quantity": 2,
+      "country": "South Africa",
+      "product_name": "Creator Course"
+    },
+    "payment_reference": "txn_0072",
+    "status": "failed",
+    "type": "refer_earn",
+    "date": "2026-02-23T04:00:00.000Z"
+  },
+  {
+    "amount": 1331.7,
+    "metadata": {
+      "name": "Mia Miller",
+      "type": "deposit",
+      "email": "mia.miller073@example.com",
+      "quantity": 3,
+      "country": "Germany",
+      "product_name": "Growth Toolkit"
+    },
+    "payment_reference": "txn_0073",
+    "status": "pending",
+    "type": "deposit",
+    "date": "2026-02-22T09:00:00.000Z"
+  },
+  {
+    "amount": 1451.55,
+    "metadata": {
+      "name": "Ethan Silva",
+      "type": "withdrawal",
+      "email": "ethan.silva074@example.com",
+      "quantity": 4,
+      "country": "United Kingdom",
+      "product_name": "SaaS Starter"
+    },
+    "payment_reference": "txn_0074",
+    "status": "pending",
+    "type": "withdrawal",
+    "date": "2026-02-21T14:00:00.000Z"
+  },
+  {
+    "amount": 1391.4,
+    "metadata": {
+      "name": "Zara Kim",
+      "type": "store",
+      "email": "zara.kim075@example.com",
+      "quantity": 5,
+      "country": "Brazil",
+      "product_name": "Revenue Playbook"
+    },
+    "payment_reference": "txn_0075",
+    "status": "failed",
+    "type": "store",
+    "date": "2026-02-20T19:00:00.000Z"
+  },
+  {
+    "amount": 1358.75,
+    "metadata": {
+      "name": "Liam Garcia",
+      "type": "tipped",
+      "email": "liam.garcia076@example.com",
+      "quantity": 1,
+      "country": "Kenya",
+      "product_name": "Pro Dashboard"
+    },
+    "payment_reference": "txn_0076",
+    "status": "successful",
+    "type": "tipped",
+    "date": "2026-02-20T00:00:00.000Z"
+  },
+  {
+    "amount": 1478.6,
+    "metadata": {
+      "name": "Nora Chen",
+      "type": "withdrawals",
+      "email": "nora.chen077@example.com",
+      "quantity": 2,
+      "country": "Canada",
+      "product_name": "Creator Course"
+    },
+    "payment_reference": "txn_0077",
+    "status": "failed",
+    "type": "withdrawals",
+    "date": "2026-02-19T05:00:00.000Z"
+  },
+  {
+    "amount": 1598.45,
+    "metadata": {
+      "name": "Elijah Okafor",
+      "type": "chargebacks",
+      "email": "elijah.okafor078@example.com",
+      "quantity": 3,
+      "country": "Netherlands",
+      "product_name": "Growth Toolkit"
+    },
+    "payment_reference": "txn_0078",
+    "status": "failed",
+    "type": "chargebacks",
+    "date": "2026-02-18T10:00:00.000Z"
+  },
+  {
+    "amount": 1448.3,
+    "metadata": {
+      "name": "Ivy Brown",
+      "type": "cashback",
+      "email": "ivy.brown079@example.com",
+      "quantity": 4,
+      "country": "India",
+      "product_name": "SaaS Starter"
+    },
+    "payment_reference": "txn_0079",
+    "status": "successful",
+    "type": "cashback",
+    "date": "2026-02-17T15:00:00.000Z"
+  },
+  {
+    "amount": 1478.15,
+    "metadata": {
+      "name": "Lucas Adeyemi",
+      "type": "refer_earn",
+      "email": "lucas.adeyemi080@example.com",
+      "quantity": 5,
+      "country": "Nigeria",
+      "product_name": "Revenue Playbook"
+    },
+    "payment_reference": "txn_0080",
+    "status": "pending",
+    "type": "refer_earn",
+    "date": "2026-02-16T20:00:00.000Z"
+  },
+  {
+    "amount": 1445.5,
+    "metadata": {
+      "name": "Ava Johnson",
+      "type": "deposit",
+      "email": "ava.johnson081@example.com",
+      "quantity": 1,
+      "country": "United States",
+      "product_name": "Pro Dashboard"
+    },
+    "payment_reference": "txn_0081",
+    "status": "successful",
+    "type": "deposit",
+    "date": "2026-02-16T01:00:00.000Z"
+  },
+  {
+    "amount": 1565.35,
+    "metadata": {
+      "name": "Noah Patel",
+      "type": "withdrawal",
+      "email": "noah.patel082@example.com",
+      "quantity": 2,
+      "country": "South Africa",
+      "product_name": "Creator Course"
+    },
+    "payment_reference": "txn_0082",
+    "status": "successful",
+    "type": "withdrawal",
+    "date": "2026-02-15T06:00:00.000Z"
+  },
+  {
+    "amount": 1505.2,
+    "metadata": {
+      "name": "Mia Miller",
+      "type": "store",
+      "email": "mia.miller083@example.com",
+      "quantity": 3,
+      "country": "Germany",
+      "product_name": "Growth Toolkit"
+    },
+    "payment_reference": "txn_0083",
+    "status": "pending",
+    "type": "store",
+    "date": "2026-02-14T11:00:00.000Z"
+  },
+  {
+    "amount": 1535.05,
+    "metadata": {
+      "name": "Ethan Silva",
+      "type": "tipped",
+      "email": "ethan.silva084@example.com",
+      "quantity": 4,
+      "country": "United Kingdom",
+      "product_name": "SaaS Starter"
+    },
+    "payment_reference": "txn_0084",
+    "status": "failed",
+    "type": "tipped",
+    "date": "2026-02-13T16:00:00.000Z"
+  },
+  {
+    "amount": 1654.9,
+    "metadata": {
+      "name": "Zara Kim",
+      "type": "withdrawals",
+      "email": "zara.kim085@example.com",
+      "quantity": 5,
+      "country": "Brazil",
+      "product_name": "Revenue Playbook"
+    },
+    "payment_reference": "txn_0085",
+    "status": "pending",
+    "type": "withdrawals",
+    "date": "2026-02-12T21:00:00.000Z"
+  },
+  {
+    "amount": 1712.25,
+    "metadata": {
+      "name": "Liam Garcia",
+      "type": "chargebacks",
+      "email": "liam.garcia086@example.com",
+      "quantity": 1,
+      "country": "Kenya",
+      "product_name": "Pro Dashboard"
+    },
+    "payment_reference": "txn_0086",
+    "status": "pending",
+    "type": "chargebacks",
+    "date": "2026-02-12T02:00:00.000Z"
+  },
+  {
+    "amount": 1562.1,
+    "metadata": {
+      "name": "Nora Chen",
+      "type": "cashback",
+      "email": "nora.chen087@example.com",
+      "quantity": 2,
+      "country": "Canada",
+      "product_name": "Creator Course"
+    },
+    "payment_reference": "txn_0087",
+    "status": "failed",
+    "type": "cashback",
+    "date": "2026-02-11T07:00:00.000Z"
+  },
+  {
+    "amount": 1591.95,
+    "metadata": {
+      "name": "Elijah Okafor",
+      "type": "refer_earn",
+      "email": "elijah.okafor088@example.com",
+      "quantity": 3,
+      "country": "Netherlands",
+      "product_name": "Growth Toolkit"
+    },
+    "payment_reference": "txn_0088",
+    "status": "successful",
+    "type": "refer_earn",
+    "date": "2026-02-10T12:00:00.000Z"
+  },
+  {
+    "amount": 1621.8,
+    "metadata": {
+      "name": "Ivy Brown",
+      "type": "deposit",
+      "email": "ivy.brown089@example.com",
+      "quantity": 4,
+      "country": "India",
+      "product_name": "SaaS Starter"
+    },
+    "payment_reference": "txn_0089",
+    "status": "failed",
+    "type": "deposit",
+    "date": "2026-02-09T17:00:00.000Z"
+  },
+  {
+    "amount": 1741.65,
+    "metadata": {
+      "name": "Lucas Adeyemi",
+      "type": "withdrawal",
+      "email": "lucas.adeyemi090@example.com",
+      "quantity": 5,
+      "country": "Nigeria",
+      "product_name": "Revenue Playbook"
+    },
+    "payment_reference": "txn_0090",
+    "status": "failed",
+    "type": "withdrawal",
+    "date": "2026-02-08T22:00:00.000Z"
+  },
+  {
+    "amount": 1619,
+    "metadata": {
+      "name": "Ava Johnson",
+      "type": "store",
+      "email": "ava.johnson091@example.com",
+      "quantity": 1,
+      "country": "United States",
+      "product_name": "Pro Dashboard"
+    },
+    "payment_reference": "txn_0091",
+    "status": "successful",
+    "type": "store",
+    "date": "2026-02-08T03:00:00.000Z"
+  },
+  {
+    "amount": 1648.85,
+    "metadata": {
+      "name": "Noah Patel",
+      "type": "tipped",
+      "email": "noah.patel092@example.com",
+      "quantity": 2,
+      "country": "South Africa",
+      "product_name": "Creator Course"
+    },
+    "payment_reference": "txn_0092",
+    "status": "pending",
+    "type": "tipped",
+    "date": "2026-02-07T08:00:00.000Z"
+  },
+  {
+    "amount": 1768.7,
+    "metadata": {
+      "name": "Mia Miller",
+      "type": "withdrawals",
+      "email": "mia.miller093@example.com",
+      "quantity": 3,
+      "country": "Germany",
+      "product_name": "Growth Toolkit"
+    },
+    "payment_reference": "txn_0093",
+    "status": "successful",
+    "type": "withdrawals",
+    "date": "2026-02-06T13:00:00.000Z"
+  },
+  {
+    "amount": 1888.55,
+    "metadata": {
+      "name": "Ethan Silva",
+      "type": "chargebacks",
+      "email": "ethan.silva094@example.com",
+      "quantity": 4,
+      "country": "United Kingdom",
+      "product_name": "SaaS Starter"
+    },
+    "payment_reference": "txn_0094",
+    "status": "successful",
+    "type": "chargebacks",
+    "date": "2026-02-05T18:00:00.000Z"
+  },
+  {
+    "amount": 1738.4,
+    "metadata": {
+      "name": "Zara Kim",
+      "type": "cashback",
+      "email": "zara.kim095@example.com",
+      "quantity": 5,
+      "country": "Brazil",
+      "product_name": "Revenue Playbook"
+    },
+    "payment_reference": "txn_0095",
+    "status": "pending",
+    "type": "cashback",
+    "date": "2026-02-04T23:00:00.000Z"
+  },
+  {
+    "amount": 1705.75,
+    "metadata": {
+      "name": "Liam Garcia",
+      "type": "refer_earn",
+      "email": "liam.garcia096@example.com",
+      "quantity": 1,
+      "country": "Kenya",
+      "product_name": "Pro Dashboard"
+    },
+    "payment_reference": "txn_0096",
+    "status": "failed",
+    "type": "refer_earn",
+    "date": "2026-02-04T04:00:00.000Z"
+  },
+  {
+    "amount": 1735.6,
+    "metadata": {
+      "name": "Nora Chen",
+      "type": "deposit",
+      "email": "nora.chen097@example.com",
+      "quantity": 2,
+      "country": "Canada",
+      "product_name": "Creator Course"
+    },
+    "payment_reference": "txn_0097",
+    "status": "pending",
+    "type": "deposit",
+    "date": "2026-02-03T09:00:00.000Z"
+  },
+  {
+    "amount": 1855.45,
+    "metadata": {
+      "name": "Elijah Okafor",
+      "type": "withdrawal",
+      "email": "elijah.okafor098@example.com",
+      "quantity": 3,
+      "country": "Netherlands",
+      "product_name": "Growth Toolkit"
+    },
+    "payment_reference": "txn_0098",
+    "status": "pending",
+    "type": "withdrawal",
+    "date": "2026-02-02T14:00:00.000Z"
+  },
+  {
+    "amount": 1795.3,
+    "metadata": {
+      "name": "Ivy Brown",
+      "type": "store",
+      "email": "ivy.brown099@example.com",
+      "quantity": 4,
+      "country": "India",
+      "product_name": "SaaS Starter"
+    },
+    "payment_reference": "txn_0099",
+    "status": "failed",
+    "type": "store",
+    "date": "2026-02-01T19:00:00.000Z"
+  },
+  {
+    "amount": 1825.15,
+    "metadata": {
+      "name": "Lucas Adeyemi",
+      "type": "tipped",
+      "email": "lucas.adeyemi100@example.com",
+      "quantity": 5,
+      "country": "Nigeria",
+      "product_name": "Revenue Playbook"
+    },
+    "payment_reference": "txn_0100",
+    "status": "successful",
+    "type": "tipped",
+    "date": "2026-02-01T00:00:00.000Z"
+  }
+]
