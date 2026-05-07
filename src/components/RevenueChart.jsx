@@ -18,7 +18,7 @@ const RevenueChart = ({ filteredData }) => {
   const lastDate = data[data.length - 1]?.date
 
   return (
-    <div className="w-full h-[257px] bg-white rounded-xl p-4 font-degulardisplay mt-8">
+    <div className="w-full h-[275px] bg-white rounded-xl p-4 font-degulardisplay mt-8">
       <div className='flex flex-col h-full'>
         <ResponsiveContainer width="100%" height="100%">
           <AreaChart data={data} margin={{ top: 10, right: 10, left: 10, bottom: 30 }}>
@@ -75,7 +75,7 @@ const RevenueChart = ({ filteredData }) => {
               type="monotone"
               dataKey="value"
               stroke="#FF5403"
-              strokeWidth={2}
+              strokeWidth={1}
               fill="url(#colorRevenue)"
               dot={false}
               activeDot={{ r: 6, fill: '#FF5403', stroke: '#fff', strokeWidth: 2 }}
