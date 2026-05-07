@@ -6,7 +6,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-      sans: ['Degular Display', ...otherFonts], 
+      degulardisplay: ['Degular Display', 'sans-serif'], 
       },
       boxShadow: {
         'brand-sm': '0px 4px 8px 0px #5C738314',
