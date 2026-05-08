@@ -17,7 +17,7 @@ const AnalysticPage = () => {
   const [filteredData, setFilteredData] = useState(null)
 
   return (
-    <main className='mx-auto w-full max-w-[1440px] min-h-screen font-degulardisplay bg-white px-4 md:px-16 pt-32'>
+    <main className='mx-auto w-full max-w-[1440px] min-h-screen font-degulardisplay bg-white px-6 sm:pl-20 lg:pl-10 md:px-16 pt-32'>
 
       {/* Top Section */}
       <div className='flex flex-col lg:flex-row w-full gap-10 lg:gap-0'>

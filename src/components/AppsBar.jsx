@@ -14,7 +14,7 @@ const appsBar = [
 const AppsBar = () => {
   return (
     <div>
-        <ul className=' hidden fixed sm:flex flex-col items-center justify-center gap-1 border-2 border-slate-100 bg-white w-12 h-48 top-[310px] left-4 rounded-full p-1 shadow-brand-sm'>
+        <ul className=' hidden fixed sm:flex flex-col items-center justify-center gap-1 border-2 border-slate-100 bg-white w-12 h-48 top-[310px] left-4 rounded-full p-1 shadow-brand-sm z-30'>
             {appsBar.map((app) => (
               <li key={app.href} className='flex items-center justify-center'>
                 <a href={app.href} 

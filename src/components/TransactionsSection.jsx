@@ -90,12 +90,12 @@ const TransactionsSection = ({ onFilter }) => {
   }
 
   return (
-    <div className='flex flex-col gap-4 h-full'>
+    <div className='flex flex-col gap-4 h-full px-2 sm:px-1'>
 
       {/* Header */}
       <div className='flex flex-row justify-between items-center border-b pb-4  bg-white sticky top-0 z-10'>
         <div className='flex flex-col gap-1'>
-          <h2 className='font-bold text-2xl text-[#131316]'>
+          <h2 className='font-bold text-xl sm:text-2xl text-[#131316]'>
             {filteredData.length} Transactions
           </h2>
           <p className='text-xs font-light text-[#56616B]'>
@@ -105,12 +105,12 @@ const TransactionsSection = ({ onFilter }) => {
         <div className='flex flex-row gap-3'>
           <button
             onClick={() => setFilterOpen(true)}
-            className='flex items-center gap-2 px-4 py-2 border border-[#E5E7EB] rounded-full text-sm font-medium text-[#131316] bg-[#EFF1F6] transition-all'
+            className='flex items-center gap-2 px-4 py-2 border border-[#E5E7EB] rounded-full text-xs sm:text-sm font-medium text-[#131316] bg-[#EFF1F6] transition-all'
           >
             Filter
             <Filter />
           </button>
-          <button className='flex items-center gap-2 px-4 py-2 border border-[#E5E7EB] rounded-full text-sm font-medium text-[#131316] bg-[#EFF1F6] transition-all'>
+          <button className='flex items-center gap-2 px-4 py-2 border border-[#E5E7EB] rounded-full text-xs sm:text-sm font-medium text-[#131316] bg-[#EFF1F6] transition-all'>
             Export list
             <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
               <path d="M8 2v8M5 7l3 3 3-3M3 13h10" stroke="#131316" strokeWidth="1.5" strokeLinecap="round"/>
